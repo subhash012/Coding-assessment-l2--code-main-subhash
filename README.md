@@ -9,5 +9,5 @@ Writing JavaScript event listeners to handle tab clicks.
 Updating the CSS styles or classes to visually indicate the active tab.
 Dynamically displaying or hiding content based on the selected tab
 
-hosted the website link below:
+hosted the website link :
 https://marmetocodingassesmentsubhash.freewebhostmost.com/
